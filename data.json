@@ -1,0 +1,48 @@
+{
+	"basics":
+	{
+		"name":"mounika",
+		"email":"gogulapatimounika@gmail.com",
+		"mobile":"917893541533"
+	},
+	"career":
+	{
+		"info":" To contribute superior project and operations management skills and experience in an IT Service Management role."
+
+	},
+	"education":[
+		{
+		"Degree":"Btech(CSE)",
+		"Institute":"Avanthi",
+		"Data":["2015-19","76%"]	
+},
+{
+	"Degree":"Intermediate(MPC)",
+		"Institute":"Sri chaitanya IIT academy",
+		"Data":["2013-15","73%"]		
+},
+{
+"Degree":"SSC",
+		"Institute":"Sri chaitanya techno school",
+		"Data":["2013","90%"]
+}],
+
+	"skills":
+	[
+{
+"title":"programming Languages",
+"info":["c","c++","java","html","data structures"]
+},
+{
+"title":"Database",
+"info":["hadoopEcosystems","mysql"]
+},
+{
+"title":"Libraries and Frameworks",
+"info":["hibernet","spark"]
+},
+{"title":"operating systems",
+"info":["linux","windows"]
+}]
+}
+
